@@ -1,0 +1,4 @@
+#Tue Jun 23 21:58:33 PKT 2020
+base.0=C\:\\flutter_project\\source_ccode\\flutter_image_camera\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
